@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+.DS_Store
+__pycache__/
+
+# If you're using a virtual environment:
+.venv
